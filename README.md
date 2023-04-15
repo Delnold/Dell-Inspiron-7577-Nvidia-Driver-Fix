@@ -29,8 +29,9 @@
 ![ComputerStarts](./Photo_Reference/User%20Log%20On.png)
 11) Select "Start a Program" click "Next"
 ![StartAProgram](./Photo_Reference/Start%20a%20program.png)
-12) Click on "Browse" and Navigate to the script then click "Next"
+12) Click on "Browse" and Navigate to the script, this path you get needs to be copied in "Add arguments" in the following syntax "-File <your_path>", and in the action type "powershell"
 ![NavigatingScript](./Photo_Reference/Navigate%20the%20script.png)
+![Config](./Photo_Reference/Navigating%20the%20script.png)
 > I include two scripts for this purpose, the only difference is how the find "PCI" of the Nvidia Driver (basically speaking - ID), however I recommend to use the first one, as the names of the drivers should be identical due to the same model of the laptop.
 13) Check "Open the Properties dialog for this task..." and click "Finish"
 ![Finish](./Photo_Reference/Finish.png)

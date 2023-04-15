@@ -25,14 +25,14 @@
 ![CreatingBasicTask](./Photo_Reference/Create%20Basic%20Task.png)
 9) Name however you want to click "Next"
 ![Naming](./Photo_Reference/Naming%20.png)
-10) Select "When the computer starts" click "Next"
-![ComputerStarts](./Photo_Reference/When%20the%20computer%20starts.png)
+10) Select "When I log on" click "Next"
+![ComputerStarts](./Photo_Reference/User%20Log%20On.png)
 11) Select "Start a Program" click "Next"
 ![StartAProgram](./Photo_Reference/Start%20a%20program.png)
 12) Click on "Browse" and Navigate to the script then click "Next"
 ![NavigatingScript](./Photo_Reference/Navigate%20the%20script.png)
 > I include two scripts for this purpose, the only difference is how the find "PCI" of the Nvidia Driver (basically speaking - ID), however I recommend to use the first one, as the names of the drivers should be identical due to the same model of the laptop.
-13) Click "Finish" and check "Open the Properties dialog for this task..."
+13) Check "Open the Properties dialog for this task..." and click "Finish"
 ![Finish](./Photo_Reference/Finish.png)
 14) Make the following configuration and click "Ok"
 ![Config](./Photo_Reference/Configuration%20.png)

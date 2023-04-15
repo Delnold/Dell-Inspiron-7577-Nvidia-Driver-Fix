@@ -38,4 +38,7 @@
 14) Make the following configuration and click "Ok"
 ![Config](./Photo_Reference/Configuration%20.png)
 
+15) If you don`t want to see the PowerShell screen each startup, select "Run Whether user is logged on or not"
+![UserLogOn](./Photo_Reference/User%20Log%20On%20Fix.png)
+
 ### Thats all, as simple as possible! You are now free of low fps gaming
